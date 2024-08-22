@@ -11,7 +11,7 @@ This project aims to predict the popularity of posts on the r/askscience subredd
 5. [Feature Engineering](#feature-engineering)
 6. [Model Preparation](#model-preparation)
 7. [Predictive Modeling](#predictive-modeling)
-8. [Insights and Conclusion](#insights-and-conclusion)
+8. [Insights and Conclusion](#https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#insights-and-conclusion)
 
 ### Dataset Overview
 The dataset (`askscience_data.csv`) comprises posts from the r/askscience subreddit, known for scientific discussions and expert contributions. Key features of each post include:
