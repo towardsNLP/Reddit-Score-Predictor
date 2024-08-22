@@ -4,13 +4,13 @@
 This project aims to predict the popularity of posts on the r/askscience subreddit by analyzing various attributes that contribute to their success. The goal is to identify key factors that resonate with the subreddit community and guide content creators in crafting engaging posts.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Data Loading](#data-loading)
-3. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
-4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-5. [Feature Engineering](#feature-engineering)
-6. [Model Preparation](#model-preparation)
-7. [Predictive Modeling](#predictive-modeling)
+1. [Introduction](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#introduction)
+2. [Data Loading](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#data-loading)
+3. [Data Cleaning and Preprocessing](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#data-cleaning-and-preprocessing)
+4. [Exploratory Data Analysis (EDA)](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#exploratory-data-analysis-eda)
+5. [Feature Engineering](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#feature-engineering)
+6. [Model Preparation](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#model-preparation)
+7. [Predictive Modeling](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#predictive-modeling)
 8. [Insights and Conclusion](https://github.com/towardsNLP/Reddit-Score-Predictor/blob/main/RedditScorePredictor.ipynb#insights-and-conclusion)
 
 ### Dataset Overview
